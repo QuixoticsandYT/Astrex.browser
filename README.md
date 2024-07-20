@@ -1,0 +1,1 @@
+Welcome to Astrex Browser! The one and only browser for gamers. This browsers current task manager stats are: 0% CPU, 10.7MB Memory Usage, 0MB/s, 0Mbps Network Usage, Power Usage: Very Low, and Power Usage Trend: Very Low.    (!!(This Project Is In BETA, And Can Not Run: Youtube, Spotify, Or ChatGPT!!).   (!!There Is a resizing BUG).               (These will get fixed soon). :)
